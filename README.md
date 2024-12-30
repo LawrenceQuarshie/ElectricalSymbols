@@ -1,2 +1,2 @@
 # Electrical Symbols
-This is a repository of my LabVIEW learning journey
+This is a repository of Electrical and Electronics engineering symbols.
